@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T16:16:43.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="j_34NHpOegzIZhfTVS7F" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T16:17:37.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="ubdr8ysmRrow4BJ7TN93" version="17.2.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1354" dy="2509.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry y="5" width="56.6388557806913" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-21" value="TradeAssetCard Component holds data for each item (Currency name, current value (showing real time changes up and down), expiry time and add to favorite action)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="8.13" y="300" width="431.87" height="80" as="geometry" />
+          <mxGeometry x="30.07" y="314.5" width="439.93" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-15" value="Carousel control holds all Tradeassets cards with navigation arrow left / right directions" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="640" y="300" width="260" height="69" as="geometry" />
+          <mxGeometry x="600" y="310" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.464;entryY=1.064;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;exitX=0.004;exitY=0.196;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-15" target="3P4OR_wHttKCgxBeabBx-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-52" value="Filters UI component used to filter TradeAssetCards by value or currency name usiing autocomplete feature in search input or by&amp;nbsp; favorites" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="930" y="300" width="300" height="70" as="geometry" />
+          <mxGeometry x="910" y="310" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-54" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="210.17000000000002" width="12" height="12" as="geometry" />
