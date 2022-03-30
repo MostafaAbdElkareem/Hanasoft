@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T16:09:45.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="v0WejI4Baxqs8Q-jyah8" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T16:16:43.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="j_34NHpOegzIZhfTVS7F" version="17.2.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1138" dy="2388.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="2509.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -35,25 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-27" value="TradeAssets Component is a container for trade Assets Carousel and filters controls&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-40" width="260" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="3P4OR_wHttKCgxBeabBx-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.287;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="190" as="sourcePoint" />
-            <mxPoint x="989.0800523536761" y="75.51000000000009" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3P4OR_wHttKCgxBeabBx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;strokeColor=#FFB570;strokeWidth=4;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3P4OR_wHttKCgxBeabBx-30" value="Header control contains &lt;br&gt;- logo&lt;br&gt;- Earngins component&lt;br&gt;- User managment dropdown menu compoenet with actions of (logout, forgot password and account managment&lt;br&gt;- Real time Total earnngs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="570" y="-90" width="570" height="109" as="geometry" />
-        </mxCell>
-        <mxCell id="3P4OR_wHttKCgxBeabBx-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.734;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.846;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120.0005366382863" y="26.71" as="sourcePoint" />
-            <mxPoint x="1129.0381956521735" y="90.2059595959599" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="40" y="-10" width="260" height="69" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;TradeAssetCard&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="93" y="201" width="167" height="80" as="geometry" />
@@ -103,9 +85,6 @@
         <mxCell id="3P4OR_wHttKCgxBeabBx-54" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="210.17000000000002" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="3P4OR_wHttKCgxBeabBx-55" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="460" y="210.17000000000002" width="12" height="12" as="geometry" />
-        </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="201" width="200" height="80" as="geometry" />
         </mxCell>
@@ -120,6 +99,9 @@
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-61" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;Curreny GBTP / USD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#00994D;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-62">
           <mxGeometry y="9" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-55" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-62">
+          <mxGeometry x="180" y="9" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="500" y="200" width="200" height="80" as="geometry" />
@@ -136,6 +118,9 @@
         <mxCell id="3P4OR_wHttKCgxBeabBx-67" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;Curreny GBTP / USD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#00994D;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-63">
           <mxGeometry y="9" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-81" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#B3B3B3;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-63">
+          <mxGeometry x="180" y="9.000000000000028" width="12" height="12" as="geometry" />
+        </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="710" y="201" width="200" height="80" as="geometry" />
         </mxCell>
@@ -150,6 +135,9 @@
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-72" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;Curreny GBTP / USD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#00994D;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-68">
           <mxGeometry y="9" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-83" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#B3B3B3;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-68">
+          <mxGeometry x="180" y="9.000000000000028" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-73" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="930" y="200" width="200" height="80" as="geometry" />
@@ -166,11 +154,32 @@
         <mxCell id="3P4OR_wHttKCgxBeabBx-77" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;Curreny GBTP / USD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#00994D;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-73">
           <mxGeometry y="9" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-84" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#B3B3B3;strokeColor=none;sketch=0;fontSize=13;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-73">
+          <mxGeometry x="180" y="9.000000000000028" width="12" height="12" as="geometry" />
+        </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.762;entryY=1.289;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-52" target="3P4OR_wHttKCgxBeabBx-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="651.04" y="323.52400000000034" as="sourcePoint" />
             <mxPoint x="596.1856000000002" y="308.9600000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-30" value="Header control contains &lt;br&gt;- logo&lt;br&gt;- Earngins component&lt;br&gt;- User managment dropdown menu compoenet with actions of (logout, forgot password and account managment&lt;br&gt;- Real time Total earnngs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-120" width="570" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.287;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="190" as="sourcePoint" />
+            <mxPoint x="989.0800523536761" y="75.51000000000009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.734;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.846;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120.0005366382863" y="26.71" as="sourcePoint" />
+            <mxPoint x="1129.0381956521735" y="90.2059595959599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;strokeColor=#FFB570;strokeWidth=4;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
