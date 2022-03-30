@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T16:09:08.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="xL-viwUvngiM8uuyyfh6" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T16:09:45.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="v0WejI4Baxqs8Q-jyah8" version="17.2.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1094" dy="2364.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="2388.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3d76a8aef4d5c911-27" value="TradeAssets Component is a container for trade Assets Carousel and filters controls&amp;nbsp;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-20" width="260" height="69" as="geometry" />
+          <mxGeometry x="130" y="-40" width="260" height="69" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.287;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-30" value="Header control contains &lt;br&gt;- logo&lt;br&gt;- Earngins component&lt;br&gt;- User managment dropdown menu compoenet with actions of (logout, forgot password and account managment&lt;br&gt;- Real time Total earnngs" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;fontSize=12;rSize=2;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=10;shadow=1;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-110" width="260" height="129" as="geometry" />
+          <mxGeometry x="570" y="-90" width="570" height="109" as="geometry" />
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;jumpSize=15;sketch=0;strokeWidth=4;shadow=1;entryX=0.734;entryY=-0.119;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.846;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
