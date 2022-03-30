@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T16:17:37.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="ubdr8ysmRrow4BJ7TN93" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T16:33:08.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="fPrkizVBdbSZBj6vscUn" version="17.2.5" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1354" dy="2509.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2490.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3P4OR_wHttKCgxBeabBx-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="770" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="17.6" y="150" width="1225.4" height="140" as="geometry" />
         </mxCell>
@@ -180,6 +183,39 @@
         </mxCell>
         <mxCell id="3P4OR_wHttKCgxBeabBx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;strokeColor=#FFB570;strokeWidth=4;" edge="1" parent="1" source="3P4OR_wHttKCgxBeabBx-30" target="3d76a8aef4d5c911-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-86" value="Chart component" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167.6" y="470" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-88" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#eeeeee;strokeColor=none;fontSize=15;fontColor=#FF0000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="410" width="281.2" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-98" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="430" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-92" value="Trade Asset 03" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#666666;fontSize=15;fillColor=#B3B3B3;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-98">
+          <mxGeometry x="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-89" value="Trade Asset 01" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.anchor;fontStyle=0;fontColor=#666666;fontSize=15;fillColor=#B3B3B3;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-98">
+          <mxGeometry width="46.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-90" value="Trade Asset 02" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fontStyle=0;fillColor=none;strokeColor=none;fontColor=#666666;fontSize=15;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-98">
+          <mxGeometry x="94" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-91" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#33b5e5;strokeColor=none;fontSize=15;fontColor=#FF0000;" vertex="1" parent="3P4OR_wHttKCgxBeabBx-90">
+          <mxGeometry y="27" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="140" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-100" value="My Watch" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3P4OR_wHttKCgxBeabBx-101" value="Trading Form" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="420" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
