@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:37:44.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="b_RDizBfW2F-vZX3OJK5" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:43:26.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="V-I-qq9nDXlIH_kHK5lD" version="17.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="he6ikHSSJ36pR5tsMWfW-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="250" width="530" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="he6ikHSSJ36pR5tsMWfW-1" value="Redux Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="655" y="360" width="120" height="200" as="geometry" />
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-1" value="&lt;b&gt;Redux Store&lt;/b&gt;&lt;br&gt;will include &lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;fetched data from market saved to state object&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;filterd data sent to each card / each selected chart and show real time updates&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;user inteaction to add favorite&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;updates to expiry time and final data&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="250" width="280" height="480" as="geometry" />
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.3rd_party_mail_server;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="41" width="86.83" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="he6ikHSSJ36pR5tsMWfW-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Stock market Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="80" width="160" height="20" as="geometry" />
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;3d party - Currency Market Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="80" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.351;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.544;exitY=1.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="he6ikHSSJ36pR5tsMWfW-3" target="he6ikHSSJ36pR5tsMWfW-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,14 +22,14 @@
             <mxPoint x="440" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="he6ikHSSJ36pR5tsMWfW-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Websocket Api&lt;br&gt;for real time data updates&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="150" width="220" height="40" as="geometry" />
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Websocket Api&lt;br&gt;for real time data updates&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="185" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Highlow React App&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="260" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-7" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;State Managment &lt;/b&gt;&lt;br&gt;Centerlised&lt;br&gt;Store&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="300" width="130" height="50" as="geometry" />
+          <mxGeometry x="640" y="175" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="380" width="120" height="200" as="geometry" />
