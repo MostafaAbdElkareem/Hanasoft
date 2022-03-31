@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:46:56.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="UzyXWYmnNmhAaf-Pd-S5" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:50:27.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="3fqPjgdGWjrlok740dAd" version="17.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1053" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,33 @@
         </mxCell>
         <mxCell id="he6ikHSSJ36pR5tsMWfW-7" value="&lt;font&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;State Managment &lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Centralised store Redux or React Context Api&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;prefer Redux for managing large data&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="he6ikHSSJ36pR5tsMWfW-35">
           <mxGeometry x="7.2086885245901655" y="20" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.384;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="he6ikHSSJ36pR5tsMWfW-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="he6ikHSSJ36pR5tsMWfW-11" target="he6ikHSSJ36pR5tsMWfW-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="he6ikHSSJ36pR5tsMWfW-10" target="he6ikHSSJ36pR5tsMWfW-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.70047169811346" y="364" as="sourcePoint" />
+            <mxPoint x="221.365" y="386.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-41" value="" style="shape=mxgraph.pid.centrifuges.centrifuge,_decanter_(screw,_solid_shell);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;fontSize=11;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="430" width="325" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="he6ikHSSJ36pR5tsMWfW-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.622;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="he6ikHSSJ36pR5tsMWfW-18" target="he6ikHSSJ36pR5tsMWfW-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
