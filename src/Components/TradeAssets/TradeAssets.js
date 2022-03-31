@@ -1,7 +1,8 @@
 import React from 'react';
+import AssetCarousel from './TradeAssetsCarousel/TradeAssetCarousel';
 
 function TradeAssets() {
-	return <div>TradeAssets</div>;
+	return <AssetCarousel />;
 }
 
 export default TradeAssets;
