@@ -13,6 +13,7 @@ function TabCharts() {
 	const [ pair, setpair ] = useState('');
 	const [ price, setprice ] = useState('0.00');
 	const [ pastData, setpastData ] = useState({});
+	const [ value, setValue ] = useState('1');
 	const ws = useRef(null);
 
 	let first = useRef(false);
@@ -82,25 +83,19 @@ function TabCharts() {
 		[ pair ]
 	);
 
-	const handleSelect = (e) => {
+	const handleSelect = (e, newValue) => {
 		let unsubMsg = {
 			type: 'unsubscribe',
 			product_ids: [ pair ],
 			channels: [ 'ticker' ]
 		};
 		let unsub = JSON.stringify(unsubMsg);
-
 		ws.current.send(unsub);
-
 		console.log(e.target.value);
-
 		setpair(e.target.value);
-	};
-	/*  */
-	const [ value, setValue ] = React.useState('1');
-	const handleChange = (event, newValue) => {
 		setValue(newValue);
 	};
+	/*  */
 
 	return (
 		<Box sx={{ width: '100%', typography: 'body1' }}>
