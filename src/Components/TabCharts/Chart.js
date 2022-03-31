@@ -10,15 +10,13 @@ function Chart({ price, data }) {
 		maintainAspectRatio: true
 	};
 	if (price === '0.00') {
-		return <h2>please select a currency pair</h2>;
+		return <h4>please select a currency pair</h4>;
 	}
 	return (
 		<div className="dashboard">
-			<h2>{`$${price}`}</h2>
+			<h4>{`$${price}`}</h4>
 
-			<div className="chart-container">
-				<Line data={data} options={opts} />
-			</div>
+			<Line data={data} options={opts} />
 		</div>
 	);
 }
