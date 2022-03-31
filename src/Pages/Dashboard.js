@@ -18,13 +18,10 @@ const Item = styled(Paper)(({ theme }) => ({
   
 function Dashboard() {
 	return (
-		<>
-		
-		
+		<>	
+		<Header></Header>
 		<Grid container spacing={2}>
-  <Grid item xs={12}>
-    <Item><Header></Header></Item>
-  </Grid>
+    
   <Grid item xs={12}>
     <Item><TradeAssets></TradeAssets></Item>
   </Grid>
